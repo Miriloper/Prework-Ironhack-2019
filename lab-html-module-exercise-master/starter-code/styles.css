@@ -1,0 +1,177 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 40px;
+  align-items: vertical;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.container-center {
+  width: 30%;
+  margin: 0 auto;
+  float: left;
+}
+
+.orange-border {
+  padding: 10px;
+  border-radius: 5%;
+  background: rgb(240, 146, 51);
+}
+
+.nav-bar-left-part {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.header {
+  background: url(images/city-scape.svg) 0 0 no-repeat;
+  height: 350px;
+  margin: 0 auto;
+  color: white;
+}
+
+.header a {
+  color: white;
+}
+
+.top-box {
+  height: 60px;
+}
+
+
+.bear-logo {
+  height: 38px;
+  margin: 2px 0;
+  padding: 10px;
+  
+}
+
+.lupa-logo {
+  height: 28px;
+  margin-top: 2px;
+  color: white;
+  background:rgb(31, 82, 111);
+}
+
+.lupa-logo img {
+  height: 12px;
+}
+
+.npm-logo {
+  margin: 2px 0;
+  float: left;
+  height: 58px;
+
+}
+
+.search-box {
+  margin: 2px 500px 2px;
+  height: 58px;
+  position: absolute;
+  width: 50%;
+  float: center;
+
+}
+
+.log-in {
+  float: right;
+  margin: 2px 0;
+  height: 58px;
+
+  }
+
+.log-in-text {
+  float: left;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.section-org {
+  margin: 0 auto;
+  width: 100%;
+  color: white;
+  background: rgb(39, 53, 71);
+}
+
+.section-org a {
+  color: white;
+  background: rgb(203, 56, 55);
+  padding: 3px;
+  border-radius: 5%;
+}
+
+.style-npm-orgs-right {
+  float: right;
+  margin: 30px 160px 30px 0;
+}
+
+.style-collaboration {
+  width: 30%;
+  padding: 10px;
+}
+
+.what-section {
+  background: url(images/forklift.svg);
+  margin: 0 auto;
+  width: 90%;
+  padding: 100px 71px;
+  height: 200px;
+  position: relative;
+  color: white;
+}
+
+.what-section a {
+  color: white;
+  background: rgb(49, 68, 88);
+  padding: 10px;
+  border-radius: 5%;
+
+}
+
+.what-section-container {
+  float: left;
+}
+
+.class-center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.end-blocks {
+  display: inline-block;
+}
+
+.end-blocks a {
+  color: red;
+}
+
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 30%;
+}
+
+.col-middle {
+  margin: 0 5%;
+}
